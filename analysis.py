@@ -1,4 +1,4 @@
-import os,sys  
+import os
+import sys
 
-x = 10  
-print("hello")  
+print("hello")
